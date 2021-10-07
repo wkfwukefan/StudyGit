@@ -3,6 +3,7 @@ package com.wkf.ms.pojo;
 public class Person {
     private Integer id;
     private String name;
+    private String address;
 
     public Person() {
     }
